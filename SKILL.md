@@ -3,7 +3,7 @@ name: team-of-rivals-assembly
 description: Build high-performing teams from former competitors, critics, or conflicting personalities by transforming rivalry into collaboration. Based on Abraham Lincoln's approach of surrounding himself wit...
 license: MIT
 metadata:
-  version: 1.0.5141
+  version: 1.0.5142
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
